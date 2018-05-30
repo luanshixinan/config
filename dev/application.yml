@@ -9,3 +9,5 @@ spring:
     name: service-feign
 port: 100001
 version: dev
+git:
+  branchers: iss1
