@@ -7,3 +7,5 @@ server:
 spring:
   application:
     name: service-feign
+port: 100001
+version: dev
